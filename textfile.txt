@@ -1,0 +1,5 @@
+Welcome to Programming Club!
+
+This is a reminder for how to use GIT
+
+Hello World.
